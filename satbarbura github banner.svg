@@ -1,0 +1,91 @@
+<svg width="100%" viewBox="0 0 1200 280" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Satbar Magar — Automate the boring. Build what scales.</title>
+  <desc>GitHub profile banner for Satbar Magar, Automation and ERP Solutions specialist based in Sydney, Australia</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.055)" stroke-width="0.5"/>
+    </pattern>
+    <radialGradient id="glow" cx="30%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#ff6600" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ff6600" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="40%" stop-color="transparent"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="60%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff6600" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#ff6600" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="280" fill="#0a0a0a"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+  <rect width="1200" height="280" fill="url(#glow)"/>
+  <rect width="1200" height="280" fill="url(#fadeL)"/>
+  <rect width="1200" height="280" fill="url(#fadeR)"/>
+
+  <!-- Corner brackets -->
+  <path d="M 50 35 L 50 62 M 50 35 L 77 35" fill="none" stroke="#ff6600" stroke-width="1.8" stroke-opacity="0.65" stroke-linecap="round"/>
+  <path d="M 1150 35 L 1150 62 M 1150 35 L 1123 35" fill="none" stroke="#ff6600" stroke-width="1.8" stroke-opacity="0.65" stroke-linecap="round"/>
+  <path d="M 50 245 L 50 218 M 50 245 L 77 245" fill="none" stroke="#ff6600" stroke-width="1.8" stroke-opacity="0.65" stroke-linecap="round"/>
+  <path d="M 1150 245 L 1150 218 M 1150 245 L 1123 245" fill="none" stroke="#ff6600" stroke-width="1.8" stroke-opacity="0.65" stroke-linecap="round"/>
+
+  <!-- Status pill -->
+  <rect x="50" y="52" width="176" height="24" rx="12" fill="rgba(255,102,0,0.1)" stroke="rgba(255,102,0,0.35)" stroke-width="0.8"/>
+  <circle cx="68" cy="64" r="4" fill="#ff6600"/>
+  <text x="80" y="69" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#ff8c33" letter-spacing="0.07em">AVAILABLE · SYD AU</text>
+
+  <!-- Name -->
+  <text x="50" y="138" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff" letter-spacing="-0.03em">Satbar Magar</text>
+
+  <!-- Orange underline -->
+  <rect x="50" y="148" width="340" height="2" rx="1" fill="url(#lineGrad)"/>
+
+  <!-- Tagline -->
+  <text x="50" y="182" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="400" fill="rgba(255,255,255,0.45)" letter-spacing="0.01em">Automate the boring. Build what scales.</text>
+
+  <!-- Skill chips -->
+  <rect x="50" y="208" width="56" height="22" rx="5" fill="rgba(255,102,0,0.1)" stroke="rgba(255,102,0,0.3)" stroke-width="0.7"/>
+  <text x="78" y="223" font-family="'JetBrains Mono', monospace" font-size="11" fill="#ff8c33" text-anchor="middle">n8n</text>
+
+  <rect x="116" y="208" width="68" height="22" rx="5" fill="rgba(255,102,0,0.1)" stroke="rgba(255,102,0,0.3)" stroke-width="0.7"/>
+  <text x="150" y="223" font-family="'JetBrains Mono', monospace" font-size="11" fill="#ff8c33" text-anchor="middle">Shopify</text>
+
+  <rect x="194" y="208" width="56" height="22" rx="5" fill="rgba(255,102,0,0.1)" stroke="rgba(255,102,0,0.3)" stroke-width="0.7"/>
+  <text x="222" y="223" font-family="'JetBrains Mono', monospace" font-size="11" fill="#ff8c33" text-anchor="middle">Odoo</text>
+
+  <rect x="260" y="208" width="64" height="22" rx="5" fill="rgba(255,102,0,0.1)" stroke="rgba(255,102,0,0.3)" stroke-width="0.7"/>
+  <text x="292" y="223" font-family="'JetBrains Mono', monospace" font-size="11" fill="#ff8c33" text-anchor="middle">Python</text>
+
+  <rect x="334" y="208" width="80" height="22" rx="5" fill="rgba(255,102,0,0.1)" stroke="rgba(255,102,0,0.3)" stroke-width="0.7"/>
+  <text x="374" y="223" font-family="'JetBrains Mono', monospace" font-size="11" fill="#ff8c33" text-anchor="middle">REST APIs</text>
+
+  <!-- Right side floating API chips -->
+  <rect x="720" y="68" width="196" height="34" rx="8" fill="rgba(15,15,15,0.9)" stroke="rgba(255,102,0,0.22)" stroke-width="0.8"/>
+  <circle cx="740" cy="85" r="4" fill="#22c55e"/>
+  <text x="752" y="90" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="rgba(255,255,255,0.45)">POST /orders → </text>
+  <text x="872" y="90" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#22c55e">200 OK</text>
+
+  <rect x="780" y="118" width="210" height="34" rx="8" fill="rgba(15,15,15,0.9)" stroke="rgba(255,102,0,0.22)" stroke-width="0.8"/>
+  <circle cx="800" cy="135" r="4" fill="#ff6600"/>
+  <text x="812" y="140" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="rgba(255,255,255,0.45)">n8n  workflow.run()</text>
+
+  <rect x="740" y="168" width="210" height="34" rx="8" fill="rgba(15,15,15,0.9)" stroke="rgba(255,102,0,0.22)" stroke-width="0.8"/>
+  <circle cx="760" cy="185" r="4" fill="#ff6600"/>
+  <text x="772" y="190" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="rgba(255,255,255,0.45)">cron  0 */6 * * *</text>
+
+  <!-- Connector lines between chips -->
+  <line x1="818" y1="102" x2="800" y2="118" stroke="rgba(255,102,0,0.18)" stroke-width="0.8" stroke-dasharray="4,4"/>
+  <line x1="885" y1="152" x2="845" y2="168" stroke="rgba(255,102,0,0.18)" stroke-width="0.8" stroke-dasharray="4,4"/>
+
+  <!-- Node dots -->
+  <circle cx="720" cy="85" r="3" fill="rgba(255,102,0,0.4)"/>
+  <circle cx="780" cy="135" r="3" fill="rgba(255,102,0,0.4)"/>
+  <circle cx="740" cy="185" r="3" fill="rgba(255,102,0,0.4)"/>
+</svg>
