@@ -20,10 +20,10 @@ I'm the person businesses call when their systems don't talk to each other. My j
 Day-to-day that means:
 - Building automation workflows that eliminate repetitive manual tasks
 - Implementing and customising Odoo ERP across departments
-- Integrating eCommerce platforms (Shopify, WooCommerce) with everything else in the stack
+- Integrating eCommerce platforms and ERP system with everything else in the stack
 - Writing Python scripts and APIs to bridge the gaps no out-of-the-box tool covers
 
-I currently oversee IT operation at eSafety Supplies — managing Shopify development, ERP systems, third-party integrations, and a small team.
+I currently oversee IT operation at eSafety Supplies - managing Shopify development, ERP systems, third-party integrations, and a team.
 
 ---
 
